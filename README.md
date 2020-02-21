@@ -2,7 +2,7 @@
 
 
 -----------------------------------------------------------------------------------------------------------------------------------
-![placeholder-shown](https://user-images.githubusercontent.com/61105869/74776837-99610380-5298-11ea-8a85-34830e173c5f.jpg)
+![Candy](https://user-images.githubusercontent.com/61105869/75077228-6e79e800-5502-11ea-8a6b-08036919416a.jpg)
 
 *(This website was developped during my free-time to learn HTML and CSS)*
 
